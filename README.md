@@ -7,7 +7,7 @@ It connects to a custom-built FastAPI backend to fetch and display similar drama
 https://kdrama-recommendation-8s2s.onrender.com
 
 ## 🔗 Backend API
-
+https://github.com/Shruti8122/kdrama-api.git
 
 ## ⚙️ Tech Stack
 - React
